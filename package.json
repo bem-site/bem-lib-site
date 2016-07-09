@@ -1,0 +1,22 @@
+{
+  "name": "bem-lib-site",
+  "version": "0.0.1",
+  "description": "BEM blocks library site generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem-site/bem-lib-site.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bem-lib-site": "./bin/bem-lib-site"
+  },
+  "author": "Vladimir Grinenko <i@tadatuta.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "bem-lib-site-data": "0.0.3",
+    "bem-lib-site-view": "0.0.1"
+  }
+}
