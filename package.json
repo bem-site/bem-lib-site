@@ -1,6 +1,6 @@
 {
   "name": "bem-lib-site",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "BEM blocks library site generator",
   "main": "index.js",
   "repository": {
