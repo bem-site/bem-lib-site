@@ -17,6 +17,6 @@
   "license": "MPL-2.0",
   "dependencies": {
     "bem-lib-site-data": "0.0.5",
-    "bem-lib-site-view": "0.0.4"
+    "bem-lib-site-view": "0.0.5"
   }
 }
